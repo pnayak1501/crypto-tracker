@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Crypto-tracker
+Check the website live at https://track-crypto.netlify.app/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
