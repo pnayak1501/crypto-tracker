@@ -1,6 +1,8 @@
 # Crypto-tracker
 Check the website live at https://track-crypto.netlify.app/
 
+![giphy](https://user-images.githubusercontent.com/62787692/119177701-5472e080-ba8a-11eb-8b32-bdcd5ba52b05.gif)
+
 <iframe src="https://giphy.com/embed/JbgGFgXsoq10fSV0IY" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ## Screenshots
 ![](ss/1_macbookpro13_front.png)
