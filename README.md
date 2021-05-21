@@ -1,4 +1,8 @@
 # Crypto-tracker
+Its a crypto currency tracker built using React. It will display the top 100 cryptocurrencies and you can even search for your favourite currency. Go ahead and have a look!
+Crypto API used: https://www.coingecko.com/en
+<br>
+<br>
 Check the website live at https://track-crypto.netlify.app/
 
 ![giphy](https://user-images.githubusercontent.com/62787692/119177701-5472e080-ba8a-11eb-8b32-bdcd5ba52b05.gif)
