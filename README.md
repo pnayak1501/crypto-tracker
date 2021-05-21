@@ -2,6 +2,7 @@
 Check the website live at https://track-crypto.netlify.app/
 
 ## Screenshots
+![](ss/1.png)
 
 ## Getting Started with Create React App
 
